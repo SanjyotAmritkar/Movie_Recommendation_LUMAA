@@ -4,7 +4,7 @@ AI/Machine Learning Intern Challenge: Simple Content-Based Recommendation
 ## Dataset
 This recommendation system uses the IMDb Top 250 Movies dataset, which contains information about movies like their names, genres, ratings, and more.
 Steps to load the dataset:
-1. Download the CSV file from the provided Kaggle link.
+1. Download the CSV file from the provided Kaggle link : https://www.kaggle.com/datasets/rajugc/imdb-top-250-movies-dataset
 2. Upload the CSV file to your working environment (e.g., Google Colab or local directory).
 
 # Setup Instructions
@@ -18,9 +18,6 @@ You can install all the required dependencies using the following command:
 pip install -r requirements.txt
 Here’s the list of dependencies you can include in the requirements.txt:
 
-txt
-Copy
-Edit
 pandas
 scikit-learn
 nltk
