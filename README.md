@@ -41,18 +41,12 @@ Here’s a sample query and the output you can expect from the recommendation sy
 Input Query: "I love thrilling action movies set in space, with a comedic twist."
 
 Output (Top 5 Recommendations):
-             name              rating
-0                     Alien     8.5
-1  The Shawshank Redemption     9.3
-2           Cinema Paradiso     8.5
-3        Lawrence of Arabia     8.3
-4              Finding Nemo     8.2
 
-
-Name	Rating
-Alien	8.5
-The Shawshank Redemption	9.3
-Cinema Paradiso	8.5
-Lawrence of Arabia	8.3
-Finding Nemo	8.2
+| Name                        | Rating |
+|-----------------------------|--------|
+| Alien                       | 8.5    |
+| The Shawshank Redemption    | 9.3    |
+| Cinema Paradiso             | 8.5    |
+| Lawrence of Arabia          | 8.3    |
+| Finding Nemo                | 8.2    |
 
