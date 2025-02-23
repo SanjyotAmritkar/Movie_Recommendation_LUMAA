@@ -50,3 +50,5 @@ Output (Top 5 Recommendations):
 | Lawrence of Arabia          | 8.3    |
 | Finding Nemo                | 8.2    |
 
+
+Salary Expectations: 40-50$/hour 
